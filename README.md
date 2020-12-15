@@ -10,3 +10,5 @@
 In this case, set up in Your .env file 'Mail' section :
 10. You can start testing with - php artisan serv
 
+<video src="preview.mp4" width="320" height="200" controls preload></video>
+
